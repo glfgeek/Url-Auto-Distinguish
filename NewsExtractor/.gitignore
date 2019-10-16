@@ -3,3 +3,14 @@
 ### Example user template
 
 # IntelliJ project files
+
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# idea
+.idea
+*.iml
+target/
+
