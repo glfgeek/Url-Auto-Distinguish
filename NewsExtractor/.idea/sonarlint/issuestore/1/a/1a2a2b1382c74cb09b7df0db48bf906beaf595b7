@@ -1,0 +1,63 @@
+
+P
+squid:S106›"9Replace this use of System.out or System.err by a logger.(«Ìûœ
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ä²¹Ìıÿÿÿÿ
+P
+squid:S106†"9Replace this use of System.out or System.err by a logger.(„ø
+?squid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+asquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(¾Å:
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÔ˜Êúÿÿÿÿ
+asquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(¾Å:
+P
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ïùãÍ
+P
+squid:S106“"9Replace this use of System.out or System.err by a logger.(óÏÇã
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+U
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ò™ˆ‚úÿÿÿÿ
+P
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ÚÀéŠ
+P
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(¡ÉÇó
+[squid:S1155Ì">Use isEmpty() to check whether the collection is empty or not.(–½‹ˆúÿÿÿÿ
+N
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ÈÜÇ`
+T
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ÎÅ·Îüÿÿÿÿ
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(™²“õ
+gsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(ı€¨ÿÿÿÿÿ
+?squid:S1148u"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+U
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ç¸Šşûÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(™²“õ
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(—äÒ
+?squid:S1148_"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S1155×">Use isEmpty() to check whether the collection is empty or not.(š¶½Ğùÿÿÿÿ
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(î°¾ñüÿÿÿÿ
+U
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ÀöÌÈÿÿÿÿÿ
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(®êåÿ
+?squid:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148s"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148‚"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ê³ş÷
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ı€¨ÿÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ìÅè\
+P
+squid:S106™"9Replace this use of System.out or System.err by a logger.(Î»ë•
+csquid:S2184²"FCast one of the operands of this multiplication operation to a "long".(ê£ÃÑıÿÿÿÿ
+hsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(©åË­ÿÿÿÿÿ
+?squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+U
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(¸û‰şıÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheckŒ"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(´¶±Ùüÿÿÿÿ8³ê§­–-
+©%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ìÅè\8³ê§­–-

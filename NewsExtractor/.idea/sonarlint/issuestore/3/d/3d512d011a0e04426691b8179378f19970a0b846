@@ -1,0 +1,52 @@
+
+3squid:S1643L"Use a StringBuilder instead.(°Ëç¨
+^squid:S1192"FDefine a constant instead of duplicating this literal "title" 3 times.(·Ýýè
+Csquid:S1444¸"+Make this "public static puncs" field final(Ùýê 
+Wsquid:S3518ý":Make sure "wSum" can't be zero before doing this division.(äúÔ¼ûÿÿÿÿ
+squid:S1319œ"rThe type of the "tprList" object should be an interface such as "List" rather than the implementation "ArrayList".( “Ëüÿÿÿÿ
+‡squid:S1319ì"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(º»Õ/
+†squid:S1319ì"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(º»Õ/
+U
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ãÏ™¨ùÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÏ™¨ùÿÿÿÿ
+xsquid:S1488‡"`Immediately return this expression instead of assigning it to the temporary variable "cNodeStr".(Ùêú¶
+xsquid:S1488ö"[Immediately return this expression instead of assigning it to the temporary variable "tpr".(¢ë—Œùÿÿÿÿ
+|squid:S1488Ù"dImmediately return this expression instead of assigning it to the temporary variable "detailResult".(å‡üá
+ysquid:S1488â"\Immediately return this expression instead of assigning it to the temporary variable "time".(ˆ…¨‹øÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckó"UMake textCount a static final constant or non-public and provide accessors if needed.(‹¤Í¤ùÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckô"UMake puncCount a static final constant or non-public and provide accessors if needed.(‰§‰ºýÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck¸"QMake puncs a static final constant or non-public and provide accessors if needed.(Ùýê 
+Jsquid:S1135€"2Complete the task associated to this TODO comment.(Û—ìÐ
+Osquid:S1135«"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Osquid:S1135Ð"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Osquid:S1135Ø"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+jsquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(§å—„
+osquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ƒõìùÿÿÿÿ
+osquid:S3776ý"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†ó­Ðÿÿÿÿÿ
+csquid:S2259á"K"NullPointerException" will be thrown when invoking method "isEmptyNode()".(ƒ‚ë¦
+dsquid:S2259ó"GA "NullPointerException" could be thrown; "aNodeStr()" can return null.(Úªêýÿÿÿÿ
+squid:S1186s"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—ó¹ûÿÿÿÿ
+žsquid:S1186¼"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©¾›Æúÿÿÿÿ
+žsquid:S1186ð"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—ó¹ûÿÿÿÿ
+žsquid:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©¾›Æúÿÿÿÿ
+žsquid:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©¾›Æúÿÿÿÿ
+5squid:S2386¸"Make this member "protected".(Ùýê 
+rsquid:S00116$"ZRename this field "URLXpathTprList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñüßß
+osquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõìùÿÿÿÿ
+osquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Âƒýÿÿÿÿ
+osquid:S00117Ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¤ÍÊüÿÿÿÿ
+jsquid:S00117Þ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¦¶Å
+osquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¶´Õÿÿÿÿÿ
+jsquid:S00117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á½®
+osquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÉøÃþÿÿÿÿ
+isquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äïéC
+jsquid:S00117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÌØŸ
+osquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ô“’ýÿÿÿÿ
+jsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†›Ü®
+osquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨£–þÿÿÿÿ
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ð§Æ
+osquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïô‚†ùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÔ˜Êúÿÿÿÿ
+[squid:S1155©">Use isEmpty() to check whether the collection is empty or not.(™Ã©Áúÿÿÿÿ
+[squid:S1155Ž">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ

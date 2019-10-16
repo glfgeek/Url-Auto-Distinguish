@@ -1,0 +1,17 @@
+
+Usquid:S1197´"8Move the array designator from the variable to the type.(ÆÁ¢·øÿÿÿÿ
+Fsquid:S1066s"/Merge this if statement with the enclosing one.(¦¥öõ
+?squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S1155á">Use isEmpty() to check whether the collection is empty or not.(•µ§¿şÿÿÿÿ
+csquid:S3027"FPut single-quotes around '?' to use the faster "indexOf(char)" method.(ğãí•ûÿÿÿÿ
+jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(çï©ó
+?squid:S1148N"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S1197Ö"8Move the array designator from the variable to the type.(–éş[
+O
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(«‚ß
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÔ˜Êúÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´“ºıÿÿÿÿ
+gsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(½È×¹ûÿÿÿÿ
+Usquid:S1197©"8Move the array designator from the variable to the type.(Ïêîûÿÿÿÿ
+gsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(½È×¹ûÿÿÿÿ
+_squid:S1075."ARefactor your code to get this URI from a customizable parameter.(æÎö8’È£­–-
