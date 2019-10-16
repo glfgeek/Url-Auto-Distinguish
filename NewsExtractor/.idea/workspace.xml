@@ -49,10 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5753" />
+            <state relative-caret-position="176">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/target/classes/config/domain_suffix">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -89,6 +100,22 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="NewsExtractor" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="NewsExtractor" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-63" />
     <option name="y" value="-871" />
@@ -106,6 +133,11 @@
             <path>
               <item name="NewsExtractor" type="b2602c69:ProjectViewProjectNode" />
               <item name="NewsExtractor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsExtractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsExtractor" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NewsExtractor" type="b2602c69:ProjectViewProjectNode" />
@@ -154,7 +186,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571197536620" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571197723844" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,8 +248,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571196821889</updated>
-      <workItem from="1571196824590" duration="520000" />
+      <workItem from="1571196824590" duration="760000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: test">
+      <created>1571197551179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571197551179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: test">
+      <created>1571197571831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571197571831</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -229,7 +276,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="520000" />
+    <option name="totallyTimeSpent" value="760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-63" y="-871" width="1582" height="832" extended-state="0" />
@@ -240,7 +287,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Alibaba Cloud Explorer" weight="0.32941177" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Run" order="0" weight="0.55780345" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -250,7 +297,7 @@
       <window_info anchor="bottom" id="SonarLint" order="5" />
       <window_info anchor="bottom" id="JProfiler" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.42774567" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.42774567" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="9" />
       <window_info anchor="bottom" id="Message" order="10" />
       <window_info anchor="bottom" id="Find" order="11" />
@@ -258,7 +305,7 @@
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.0627451" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Alibaba Function Compute" />
@@ -300,6 +347,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: test" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: test" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/glf/news/extractor/NewsExtractor/DomainUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -336,6 +387,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/glf/news/extractor/NewsExtractor/NewsDetailTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="937">
@@ -343,9 +399,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5753" />
+        <state relative-caret-position="176">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/config/domain_suffix">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
       </provider>
     </entry>
   </component>
