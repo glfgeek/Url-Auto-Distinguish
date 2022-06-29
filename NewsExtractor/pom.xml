@@ -18,13 +18,13 @@
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
-			<version>3.9</version>
+			<version>4.1.1</version>
 		</dependency>
 		<!--java to Excel -->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
-			<version>3.15-beta1</version>
+			<version>4.1.1</version>
 		</dependency>
 		<!-- JSONObject对象依赖的jar包 -->
 		<dependency>
